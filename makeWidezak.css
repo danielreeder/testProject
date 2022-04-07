@@ -1,0 +1,16 @@
+.title{
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.dragBox{
+  float: left;
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+  border: 1px solid #aaaaaa;
+  margin: 5px;
+}
+
+#div1,#div2,#div3,#div4,#div5{
+}
